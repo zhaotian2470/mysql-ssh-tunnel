@@ -1,0 +1,18 @@
+# -*- mode: gitignore; -*-
+
+# emacs
+*~
+\#*\#
+*.elc
+
+# node
+logs
+*.log
+npm-debug.log*
+package-lock.json
+config/local*.json
+config/*debug*.json
+node_modules/
+
+# python
+*.pyc

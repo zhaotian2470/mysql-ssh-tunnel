@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git",
+  "_id": "mysql-ssh-tunnel@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-TzfLQpATE2rxp1WkWHQRZJXclzE=",
+  "_location": "/mysql-ssh-tunnel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "mysql-ssh-tunnel@git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git",
+    "name": "mysql-ssh-tunnel",
+    "escapedName": "mysql-ssh-tunnel",
+    "rawSpec": "git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git",
+    "saveSpec": "git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git",
+    "fetchSpec": "https://github.com/zhaotian2470/mysql-ssh-tunnel.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/general-utility-lib"
+  ],
+  "_resolved": "git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git#80a8d9195afe92116c8e81498fcd952a40e46a61",
+  "_spec": "mysql-ssh-tunnel@git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git",
+  "_where": "/home/tian/workspace/fix-hwx-status/node_modules/general-utility-lib",
+  "author": {
+    "name": "Zhao Tian"
+  },
+  "bugs": {
+    "url": "https://github.com/zhaotian2470/mysql-ssh-tunnel/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mysql2": "^1.5.2",
+    "ssh2": "^0.5.5"
+  },
+  "deprecated": false,
+  "description": "connect mysql via ssh tunnel",
+  "homepage": "https://github.com/zhaotian2470/mysql-ssh-tunnel#readme",
+  "keywords": [
+    "mysql",
+    "ssh"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "name": "mysql-ssh-tunnel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaotian2470/mysql-ssh-tunnel.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
